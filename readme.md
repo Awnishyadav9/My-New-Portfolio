@@ -17,4 +17,4 @@ A personal portfolio built with Python and Django. This portfolio showcases my w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Portfolio.git
+  git remote add origin https://github.com/Awnishyadav9/My-New-Portfolio.git
